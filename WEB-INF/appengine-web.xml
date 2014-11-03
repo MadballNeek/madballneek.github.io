@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
+    <application>mindshaftgames</application>
+    <version>1</version>
+    <threadsafe>true</threadsafe>
+
+    <static-files>
+        <include path="/favicon.ico" />
+        <include path="/**.unity3d"/>
+        <include path="/**.png"/>
+        <include path="/**.js"/>
+        <include path="/**.html"/>
+        <include path="/**.ogg"/>
+        <include path="/**.mp3"/>
+        <include path="/**.dll"/>
+        <include path="/**.gif"/>
+        <include path="/**.PNG"/>
+        <include path="/**.ttf"/>
+        <include path="/**.woff"/>
+        <include path="/**.svg"/>
+        <include path="/**.jpg"/>
+        <include path="/games/ImpactRunner/*.js"/>
+        <include path="/games/LD26/*.js"/>
+        <include path="/**.css"/>
+        <include path="/**.php"/>
+        <include path="/**.xml"/>
+    </static-files>
+    <resource-files>
+        <include path="/games/ImpactRunner/*.js"/>
+        <include path="/games/LD26/*.js"/>
+        <include path="/**.js"/>
+        <include path="/**.php"/>
+    </resource-files>
+
+</appengine-web-app>

@@ -1,0 +1,45 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <link rel="stylesheet" type="text/css" href="../../mindshaft.css" />
+
+        <title>MindShaft Games</title>
+
+        <script type="text/javascript" src="game.min.js"></script>
+    </head>
+
+    <body>
+        <div id="page">
+            <div id="content_container">
+                <div class="other-content">
+                    <p class="header"><span><a href="../../gamejams.jsp">MindShaft Games Presents</a> | </span> <b>You Only Get One Chance</b> - <a href="http://www.ludumdare.com/compo/ludum-dare-28/?action=preview&uid=20275">Ludum Dare 28</a> Entry</p>
+                    <p>Left/Right arrows to move. Up/Down to call elevator. X jumps. C shoots.</p>
+                    <br/>
+                </div>
+                <div id="content">
+                    <canvas id="canvas">
+                        Your browser does not support HTML5 features. WHY NOT?! Go get a real browser. http://www.google.com/chrome/
+                    </canvas>
+                </div>
+                <br/>
+                <div class="other-content">
+                    <p>
+                        <a href="https://github.com/MadballNeek/impactjs-ld28"><img src="../../images/github-icon.png"></a><br /><a href="https://github.com/MadballNeek/impactjs-ld28">Project open source on GitHub</a>
+                    </p>
+                    <br/>
+                    <p>
+                        <a href="http://impactjs.com"><img src="../../images/impactLogo.png"></a><a href="http://html5rocks.com/"><img src="../../images/html5_small.png"></a>
+                    </p>
+                    <p>
+                        Developed in 48 hours with <a href="http://impactjs.com/" title="Go to impactjs.com">ImpactJS</a>
+                    </p>
+                    <br/>
+                </div>
+                <div class="other-content">
+                    <p class="header">&laquo; <a href="../../gamejams.jsp">Home</a> &raquo;</p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

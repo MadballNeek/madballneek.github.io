@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: 
+Disallow: /gamejams/
+Disallow: /css/
+Disallow: /images/
+Disallow: /img/
+Disallow: /js/
+Sitemap: www.mindshaftgames.com

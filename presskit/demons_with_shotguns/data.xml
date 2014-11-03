@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Demons with Shotguns</title>
+	<release-date>TBD</release-date>
+	<website>http://www.mindshaftgames.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PC</name>
+			<link>http://www.mindshaftgames.com/</link>
+		</platform>
+		<platform>
+			<name>Ouya</name>
+			<link>http://www.ouya.tv/</link>
+		</platform>		
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>TBD</value>
+		</price>		
+	</prices>
+
+	<description>
+	The battle between Heaven and Hell has been going on for so long, no one really remembers why, let alone when, it started. Alas, both sides are desperate for souls that can be used to strengthen their numbers. Their desperation takes them to the mortal realm, where Angels and Demons fight for the souls of mankind. Up to four players will fight against each other in multiple game modes to help tip the scales in their factions favor. Armed with a powerful double barrel shotgun, blast your way through your opponents, unleashing their souls for to you collect, and bathe in the rain of their blood and gibs!
+	</description>
+	
+	<history>
+	I've always loved competitive multiplayer games, growing up games like Unreal Tournament, Quake, and Duke Nukem 3D. Sometime in early 2012, after playing the classic Super Mario Bros. Battle with some friends, the idea of developing a local 4-player multiplayer game in similar vain has always stuck with me since. Fast forward to early 2013, after creating a Unreal Tournament demake for the Ludum Dare game jam, I decided to take the idea of "Unreal Tournament on SNES" and run with it. After many design iterations, the idea ultimatly morphed into what you're seeing today. 
+	</history>
+
+	<features>
+		<feature>Up to four players can fight with multiple characters to choose from. Play as the Priest who has lost his faith, the desperate Demon, the Heavenless Angel or even Death himself.</feature>
+		<feature>Multiple gamemodes including Deathmatch, Capture the Soul, Last Soul Standing and more!</feature>
+		<feature>Harness the power of randomly dropped Tarot Cards. You never know what luck or misfortune they will bring.</feature>
+		<feature>Master the use of your shield to defend yourself against your opponents. Use it wisely, however, as it'll crumble in your hands after deflecting too many shots!</feature>
+		<feature>Battle for your opponents souls!</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Teaser Trailer</name>
+			<youtube>eimnlDLJeOw</youtube>			
+		</trailer>		
+	</trailers>
+	
+	<awards>
+		<!--<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>-->
+	</awards>
+	
+	<quotes>
+		<!--<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://</link>
+		</quote>-->
+	</quotes>
+	
+	<additionals>
+		<!--<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>http://vlambeer.com/bloglink</link>
+		</additional>-->
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Nicholas DiMucci</person>
+			<role>Head Honcho &amp; Development, MindShaft Games</role>
+		</credit>		
+	</credits>
+</game>
