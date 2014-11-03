@@ -3,6 +3,7 @@
 @font-face{font-family:'FontAwesome';src:url('font/fontawesome-webfont.eot?v=4.0.1');src:url('font/fontawesome-webfont.eot?#iefix&v=4.0.1') format('embedded-opentype'),url('font/fontawesome-webfont.woff?v=4.0.1') format('woff'),url('font/fontawesome-webfont.ttf?v=4.0.1') format('truetype'),url('font/fontawesome-webfont.svg?v=4.0.1#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}
 @font-face{font-family:'Immortal';src:url('font/IMMORTAL.ttf');}
 @font-face{font-family:'Alagard';src:url('font/alagard.ttf');}
+@font-face{font-family:'Destroy';src:url('font/DESTROY_.TTF');}
 
 /*
 	Escape Velocity 2.5 by HTML5 UP
@@ -25,7 +26,7 @@
 
 	body, input, textarea, select
 	{
-		font-family: 'Alagard', sans-serif;
+		font-family: 'Destroy', sans-serif;
 		font-weight: 400;
 		color: #919499;
 	}
