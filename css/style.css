@@ -34,7 +34,7 @@
 	h1,h2,h3,h4,h5,h6
 	{
 		font-weight: 700;
-		color: #484d55;
+		color: white;
 	}
 	
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
@@ -257,6 +257,8 @@
 	header.style1
 	{
 		text-align: center;
+        border-top: 1px solid white;
+        padding: 2em 0 2em 0;
 	}
 
 		header.style1 h2
@@ -435,7 +437,7 @@
 
 		.feature-list h3
 		{
-			color: #e97770 !important;
+			color: red !important;
 		}
 		
 			.feature-list h3:before
@@ -1029,8 +1031,8 @@
 		
 			#footer-wrapper .feature-list section
 			{
-				border-top-color: #333;
-				border-top-color: rgba(255,255,255,0.05);
+				/*border-top-color: #333;*/
+				/*border-top-color: rgba(255,255,255,0.05);*/
 			}
 
 			#footer-wrapper .feature-list h3
@@ -1081,12 +1083,12 @@
 	
 	.wrapper-style3
 	{
-		background: #f3f3f3 url('images/overlay.png');
+		background: #0F1F3D url('images/overlay.png');
 	}
 	
 		.wrapper-style3 .title
 		{
-			background: #f3f3f3 url('images/overlay.png');
+			background: #0F1F3D url('images/overlay.png');
 			color: #484d55;
 		}
 		
