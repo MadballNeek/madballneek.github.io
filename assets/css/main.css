@@ -15,15 +15,12 @@
 
 @media(min-width: 960px) {
     .social-icons {
-        position: fixed;
-        top: 10px;
-        left: 10px;
-        width: 82px;
+        width: 100%;
         color: #fff;
     }
 
     .social-icons a:hover {
-        padding-left: 10px;
+        color: #000000;
     }
 }
 
