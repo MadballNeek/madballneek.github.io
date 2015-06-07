@@ -39,15 +39,15 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/game/screenshots/screenshot1.png': 'center',
-                            'images/game/screenshots/screenshot2.png': 'center',
-                            'images/game/screenshots/screenshot3.png': 'center',
-                            'images/game/screenshots/screenshot4.png': 'center',
-                            'images/game/screenshots/screenshot5.png': 'center',
-                            'images/game/screenshots/screenshot6.png': 'center',
-                            'images/game/screenshots/screenshot7.png': 'center',
-                            'images/game/screenshots/screenshot8.png': 'center',
-                            'images/game/screenshots/screenshot9.png': 'center'
+							'images/bg01.png': 'center',
+                            'images/bg02.png': 'center',
+                            'images/bg03.png': 'center',
+                            'images/bg04.png': 'center',
+                            'images/bg05.png': 'center',
+                            'images/bg06.png': 'center',
+                            'images/bg07.png': 'center',
+                            'images/bg08.png': 'center',
+                            'images/bg09.png': 'center'
 						},
 
 					// Delay.
