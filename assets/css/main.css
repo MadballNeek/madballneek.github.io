@@ -171,7 +171,7 @@
 			-webkit-transition: opacity 3s ease, visibility 3s;
 			-ms-transition: opacity 3s ease, visibility 3s;
 			transition: opacity 3s ease, visibility 3s;
-			background-size: cover;
+			background-size: contain;
 			height: 100%;
 			left: 0;
 			opacity: 0;
@@ -664,10 +664,10 @@
 		}
 
 		50% {
-			-moz-transform: scale(1.025);
-			-webkit-transform: scale(1.025);
-			-ms-transform: scale(1.025);
-			transform: scale(1.025);
+			-moz-transform: scale(1);
+			-webkit-transform: scale(1);
+			-ms-transform: scale(1);
+			transform: scale(1);
 		}
 
 		100% {
@@ -687,10 +687,10 @@
 		}
 
 		50% {
-			-moz-transform: scale(1.025);
-			-webkit-transform: scale(1.025);
-			-ms-transform: scale(1.025);
-			transform: scale(1.025);
+			-moz-transform: scale(1);
+			-webkit-transform: scale(1);
+			-ms-transform: scale(1);
+			transform: scale(1);
 		}
 
 		100% {
@@ -710,10 +710,10 @@
 		}
 
 		50% {
-			-moz-transform: scale(1.025);
-			-webkit-transform: scale(1.025);
-			-ms-transform: scale(1.025);
-			transform: scale(1.025);
+			-moz-transform: scale(1);
+			-webkit-transform: scale(1);
+			-ms-transform: scale(1);
+			transform: scale(1);
 		}
 
 		100% {
@@ -733,10 +733,10 @@
 		}
 
 		50% {
-			-moz-transform: scale(1.025);
-			-webkit-transform: scale(1.025);
-			-ms-transform: scale(1.025);
-			transform: scale(1.025);
+			-moz-transform: scale(1);
+			-webkit-transform: scale(1);
+			-ms-transform: scale(1);
+			transform: scale(1);
 		}
 
 		100% {
