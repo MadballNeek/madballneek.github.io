@@ -39,18 +39,21 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-              'images/bg00.jpg': 'center',
-							'images/bg01.jpg': 'center',
-							'images/bg02.png': 'center',
-							'images/bg03.png': 'center',
-							'images/bg04.png': 'center',
-							'images/bg05.png': 'center',
-							'images/bg06.png': 'center',
-							'images/bg07.png': 'center',
-							'images/bg08.png': 'center',
-							'images/bg09.png': 'center',
-							'images/bg10.png': 'center',
-							'images/bg11.png': 'center'
+                            'images/bg01.jpg': 'center',
+                            'images/bg000.gif': 'center',
+                            'images/bg00.jpg': 'center',
+                            'images/bg09.png': 'center',
+                            'images/bg05.png': 'center',
+                            'images/bg02.png': 'center',
+                            'images/bg001.gif': 'center',
+                            'images/bg03.png': 'center',
+                            'images/bg12.png': 'center',
+                            'images/bg07.png': 'center',
+                            'images/bg10.png': 'center',
+                            'images/bg08.png': 'center',
+                            'images/bg11.png': 'center',
+                            'images/bg06.png': 'center',
+                            'images/bg04.png': 'center'
 						},
 
 					// Delay.
