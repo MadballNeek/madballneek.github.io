@@ -2424,7 +2424,7 @@
 
             #banner .inner header {
                 display: inline-block;                
-                margin: 0 0 2em 0;
+                /*margin: 0 0 2em 0;*/
                 padding: 3px 0 3px 0;
             }
 
